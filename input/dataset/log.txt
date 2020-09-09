@@ -1,0 +1,14 @@
+undefinedffmpeg version git-2017-12-29-0c78b6a Copyright (c) 2000-2017 the FFmpeg developers
+  built with gcc 7.2.0 (GCC)
+  configuration: --enable-gpl --enable-version3 --enable-sdl2 --enable-bzlib --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-amf --enable-cuda --enable-cuvid --enable-d3d11va --enable-nvenc --enable-dxva2 --enable-avisynth --enable-libmfx
+  libavutil      56.  7.100 / 56.  7.100
+  libavcodec     58.  9.100 / 58.  9.100
+  libavformat    58.  3.100 / 58.  3.100
+  libavdevice    58.  0.100 / 58.  0.100
+  libavfilter     7.  8.100 /  7.  8.100
+  libswscale      5.  0.101 /  5.  0.101
+  libswresample   3.  0.101 /  3.  0.101
+  libpostproc    55.  0.100 / 55.  0.100
+[image2 demuxer @ 0000027b9ed6b480] Unable to parse option value "" as video rate
+[image2 demuxer @ 0000027b9ed6b480] Error setting option framerate to value .
+C:\Users\PRITHVIRAJ NAIK\Desktop\cnn\dataset\workdir-b\merged\out%d.png: Invalid argument
